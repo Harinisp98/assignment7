@@ -1,0 +1,6 @@
+1. state is internal and controlled by the component itself while props are external and controlled by whatever renders the component
+props:Props are read-only
+Props are immutable
+state:State changes can be asynchronous
+State is mutable
+2.passing the elements from child to parent is not possible
